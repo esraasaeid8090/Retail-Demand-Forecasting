@@ -7,8 +7,8 @@ A Machine Learning project for forecasting future retail demand based on histori
 - **اسراء سعيد سيد سلطان (Team Leader)**
 - **يمنى محمد حسن**
 - **مريم محمد السيد محمد**
-- **اسماء سلطان**
-- **بسنت ادريس**
+- **اسماء محمد سلطان**
+- **بسنت محمد ادريس عبدالفتاح**
 - **مريم وائل**
 
 
